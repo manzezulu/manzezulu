@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Manzezulu Mazibuko
 
-I'm a Bachelor of Science in Computer Science and Chemistry graduate from Rhodes University, now a Software Product Development Intern at Diebold Nixdorf.  
+I'm a Bachelor of Science in Computer Science graduate from Rhodes University, now a Software Product Development Graduate at Diebold Nixdorf.  
 My work and passion focus on building real-world solutions that uplift people and communities — especially in underdeveloped areas in South Africa.
 
 ---
