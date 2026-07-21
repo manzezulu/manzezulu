@@ -1,42 +1,18 @@
-# 👋 Hi there, I'm Manzezulu Mazibuko
+# 💫 About Me:
+👋 Hi, I'm Manzezulu Mazibuko, a Software Engineer passionate about building practical solutions through technology. I have experience working with Java, Spring Boot, React, Python, and various other technologies, and I'm continuously expanding my skills in software development, AI, and quality assurance.<br>🔭 I’m currently working on — Full-stack applications, banking technology projects, and personal software projects.<br>👯 I’m looking to collaborate on — Open-source projects and innovative software solutions.<br>🤝 I’m looking for help with — Expanding my knowledge of cloud technologies, AI, and advanced software engineering practices.<br>🌱 I’m currently learning — AI, software engineering, data handling, SQL, and software testing.<br>💬 Ask me about — Java, Spring Boot, Python, React, software development, and my projects.<br>⚡ Fun fact — I started my journey in technology with a passion for solving real-world problems through software.
 
-I'm a Bachelor of Science in Computer Science graduate from Rhodes University, now a Software Product Development Graduate at Diebold Nixdorf.  
-My work and passion focus on building real-world solutions that uplift people and communities — especially in underdeveloped areas in South Africa.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khondlomanzezulu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manzezulu-mazibuko-b62a26177) 
 
-## 🚀 What I'm working on
-- 🚌 **Easy Bus App:** A platform for commuters to recharge smart cards, track buses in real time, and get the latest updates.
-- 🌱 **ICT Centre:** Planning an ICT hub in my hometown to provide training, WiFi, and opportunities for local youth, while supporting surrounding farms & businesses.
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=manzezulu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=manzezulu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manzezulu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=manzezulu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👀 A bit more about me
-- 💡 I love solving problems through code and building systems that are easy for anyone to use.
-- ⚽ In my free time, I enjoy football and fixing up computers.
-- 🙌 My biggest belief: *respect everyone, no matter where they come from or what they have.*
-
----
-
-## 📫 Get in touch
-- Email: **manzezulum57@gmail.com**
-- LinkedIn: [linkedin.com/in/manzezulu](https://linkedin.com/in/manzezulu)
-- Location: Johannesburg, South Africa
-
----
-
-> *"Coding is my way of bridging gaps — not just in systems, but in communities."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
