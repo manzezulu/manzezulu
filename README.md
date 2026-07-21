@@ -98,7 +98,7 @@ I approach engineering with a **product mindset**: understand the problem, desig
 | SQL & Relational Databases | Developing          | Designing and querying relational database systems                                               |
 | Software Engineering       | Strong              | Object-oriented programming, application architecture, debugging, and system development         |
 | Product Engineering        | Strong              | Translating real-world problems into practical technology solutions                              |
-| Software Testing           | Developing          | Applying testing principles, debugging, quality practices, and software reliability concepts     |
+| Software Testing           | Strong              | Applying testing principles, debugging, quality practices, and software reliability concepts     |
 
 ---
 
@@ -133,7 +133,7 @@ A banking system application designed to simulate core banking operations while 
 </details>
 
 <details>
-<summary><strong>🚌 PUTCO Smart Transport Platform</strong></summary>
+<summary><strong>🚌 BUS Smart Transport Platform</strong></summary>
 
 <br />
 
@@ -263,7 +263,7 @@ Worked within an enterprise technology environment focused on software product d
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications in Training
 
 ### AWS
 
@@ -311,9 +311,9 @@ Worked within an enterprise technology environment focused on software product d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManzezuluMazibuko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manzezulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManzezuluMazibuko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzezulu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
 </div>
 
@@ -321,7 +321,7 @@ Worked within an enterprise technology environment focused on software product d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ManzezuluMazibuko&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img src="https://streak-stats.demolab.com?user=manzezulu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 </div>
 
@@ -331,7 +331,7 @@ Worked within an enterprise technology environment focused on software product d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManzezuluMazibuko&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=manzezulu&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -341,7 +341,7 @@ Worked within an enterprise technology environment focused on software product d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManzezuluMazibuko&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manzezulu&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -351,7 +351,7 @@ Worked within an enterprise technology environment focused on software product d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ManzezuluMazibuko/ManzezuluMazibuko/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/manzezulu/manzezulu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -397,11 +397,11 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:manzezulum57@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/manzezulu-mazibuko-b62a26177">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
