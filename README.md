@@ -345,9 +345,9 @@ Worked within an enterprise technology environment focused on software product d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manzezulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manzezulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzezulu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manzezulu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
 </div>
 
@@ -358,7 +358,6 @@ Worked within an enterprise technology environment focused on software product d
 <img src="https://streak-stats.demolab.com?user=manzezulu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
