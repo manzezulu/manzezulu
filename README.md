@@ -28,9 +28,9 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=ManzezuluMazibuko&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ManzezuluMazibuko?label=FOLLOWERS&style=for-the-badge&color=4C1D95" />
-<img src="https://img.shields.io/github/stars/ManzezuluMazibuko?label=STARS&style=for-the-badge&color=312E81" />
+<img src="https://komarev.com/ghpvc/?username=manzezulu&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/manzezulu?label=FOLLOWERS&style=for-the-badge&color=4C1D95" />
+<img src="https://img.shields.io/github/stars/manzezulu?label=STARS&style=for-the-badge&color=312E81" />
 
 </div>
 
