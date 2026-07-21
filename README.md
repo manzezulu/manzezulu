@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+technology+that+solves+real-world+problems;Software+Engineer;AI+%26+Software+Engineering+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+technology+that+solves+real +world+problems;Software+Engineer;AI+%26+Software+Engineering+Enthusiast" />
 </p>
 
 <br />
