@@ -256,10 +256,10 @@ A task management application focused on user authentication, task creation, tas
 
 ## 💼 Experience
 
-### Trainee — Software Product Development
+### Software Engineer Graduate
 
 **Diebold Nixdorf**
-**2024 – 2026**
+**2024 – Present**
 
 Worked within an enterprise technology environment focused on software product development, financial technology systems, ATM software, integrations, troubleshooting, and technical support.
 
