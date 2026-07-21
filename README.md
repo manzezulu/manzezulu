@@ -104,6 +104,95 @@ I approach engineering with a **product mindset**: understand the problem, desig
 
 ## 🚀 Featured Projects
 
+</details> <details> <summary><strong>👟 Shoe Inventory Management System</strong></summary> <br />
+
+A Python command-line inventory management application designed to help users efficiently manage shoe stock, monitor inventory levels, calculate item values, and maintain persistent inventory records.
+
+The system demonstrates practical application of Object-Oriented Programming, file handling, exception handling, data validation, CRUD operations, and modular software design.
+
+Category	Details
+Stack	Python 3 / Tabulate
+Scale	Interactive command-line inventory management system
+Performance	Lightweight file-based inventory processing
+Security	Input validation and duplicate record prevention
+Impact	Automates stock management, inventory valuation, and restocking flows
+Repository	View Repository
+Core Features
+Read inventory data from a text file
+Add new shoes to the inventory
+Prevent duplicate shoe codes
+View all inventory items in a formatted table
+Search for shoes using unique product codes
+Identify the item with the lowest stock level for restocking
+Calculate the total value of inventory items
+Identify the shoe with the highest quantity
+Automatically save inventory changes for persistence
+Concepts Demonstrated
+Object-Oriented Programming
+Classes and Objects
+File Handling
+Exception Handling
+Data Validation
+Lists and Iteration
+User Input Processing
+CRUD Operations
+Modular Programming
+</details> <details> <summary><strong>📚 Book Shelf Tracker</strong></summary> <br />
+
+A Python command-line inventory management system for bookstores, built with Python and SQLite. The application enables users to manage books and authors through a structured relational database while supporting complete CRUD operations, search functionality, input validation, and data integrity controls.
+
+This project demonstrates practical backend development principles including relational database design, SQL joins, parameterized queries, transaction handling, exception handling, validation, and database-driven application architecture.
+
+Category	Details
+Stack	Python 3 / SQLite3
+Scale	Database-backed command-line inventory management system
+Performance	Lightweight local SQLite database with efficient relational queries
+Security	Parameterized SQL queries to prevent SQL injection
+Impact	Provides a complete bookstore inventory and author management workflow
+Repository	View Repository
+Core Features
+Add new books to the inventory
+Register new authors during the book creation process
+Update book quantity, title, and author assignment
+Update author information including name and country
+Delete books with confirmation prompts
+Search for individual books using their unique ID
+View all books with associated author details
+Validate 4-digit book and author IDs
+Validate non-empty text fields
+Prevent negative quantities
+Use parameterized SQL queries for database security
+Automatically create and seed the database on first execution
+Database Architecture
+
+The system uses a relational database consisting of two connected tables:
+
+author
+├── id       (Primary Key)
+├── name
+└── country
+
+book
+├── id        (Primary Key)
+├── title
+├── authorID  (Foreign Key → author.id)
+└── qty
+
+Books and authors are connected through the authorID foreign key. When book and author information is required together, the application uses an INNER JOIN to retrieve related records efficiently.
+
+Engineering Scope
+Relational database design
+SQLite database integration
+CRUD operations
+SQL INNER JOIN queries
+Parameterized SQL statements
+Database transaction management
+Rollback handling
+Input validation
+Foreign key integrity
+Context-managed database connections
+Interactive command-line application design
+</details>
 <details>
 <summary><strong>🏦 Banking System Application</strong></summary>
 
@@ -159,33 +248,6 @@ A smart public transportation platform concept designed to improve the commuter 
 * React frontend development
 * H2 database testing environment
 * Administrative platform capabilities
-
-</details>
-
-<details>
-<summary><strong>💳 Finance Calculators Application</strong></summary>
-
-<br />
-
-A finance-focused application designed to calculate common financial values including simple interest, compound interest, and loan repayment calculations.
-
-| Category        | Details                                                               |
-| --------------- | --------------------------------------------------------------------- |
-| **Stack**       | Python                                                                |
-| **Scale**       | Modular command-line application                                      |
-| **Performance** | Lightweight and efficient calculations                                |
-| **Security**    | Input validation-oriented design                                      |
-| **Impact**      | Applies programming fundamentals to real-world financial calculations |
-| **Repository**  | [View Repository](https://github.com/manzezulu/finance-calculator)                                |
-
-### Engineering Scope
-
-* Simple interest calculations
-* Compound interest calculations
-* Loan payment calculations
-* Mathematical modelling
-* User input handling
-* Financial logic implementation
 
 </details>
 
