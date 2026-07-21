@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+technology+that+solves+real-world+problems;Software+Engineer;AI+%26+Software+Engineering+Enthusiast" />
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Full-Stack+Developer;AI+%26+Software+Engineering+Practitioner;Product+Engineering+%7C+Automation+%7C+Cloud;Building+technology+that+solves+real-world+problems" alt="Typing SVG" />
-</a>
-
 <br />
 
 <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
