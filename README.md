@@ -424,7 +424,7 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/manzezulu-mazibuko-b62a26177">
+<a href="https://www.linkedin.com/in/manzezulu-mazibuko-b62a26177">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
