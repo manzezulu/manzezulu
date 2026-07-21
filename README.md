@@ -118,7 +118,7 @@ A banking system application designed to simulate core banking operations while 
 | **Performance** | Designed for efficient transaction processing                                 |
 | **Security**    | Authentication and validation-focused design                                  |
 | **Impact**      | Demonstrates financial software engineering and business logic implementation |
-| **Repository**  | [View Repository](https://github.com/)                                        |
+| **Repository**  | [View Repository](https://github.com/manzezulu/bankingsystem/)                                        |
 
 ### Engineering Scope
 
@@ -146,7 +146,7 @@ A smart public transportation platform concept designed to improve the commuter 
 | **Performance** | Designed for scalable service-based architecture                         |
 | **Security**    | JWT authentication and protected API access                              |
 | **Impact**      | Digitises commuter services and improves access to transport information |
-| **Repository**  | [View Repository](https://github.com/)                                   |
+| **Repository**  | [View Repository](https://github.com/manzezulu/EasyAPP)                                   |
 
 ### Engineering Scope
 
@@ -176,7 +176,7 @@ A finance-focused application designed to calculate common financial values incl
 | **Performance** | Lightweight and efficient calculations                                |
 | **Security**    | Input validation-oriented design                                      |
 | **Impact**      | Applies programming fundamentals to real-world financial calculations |
-| **Repository**  | [View Repository](https://github.com/)                                |
+| **Repository**  | [View Repository](https://github.com/manzezulu/finance-calculator)                                |
 
 ### Engineering Scope
 
@@ -203,7 +203,7 @@ A task management application focused on user authentication, task creation, tas
 | **Performance** | File-based task processing                                   |
 | **Security**    | Login and user access controls                               |
 | **Impact**      | Demonstrates CRUD operations and application workflow design |
-| **Repository**  | [View Repository](https://github.com/)                       |
+| **Repository**  | [View Repository](https://github.com/manzezulu/Task-manager)                       |
 
 ### Engineering Scope
 
