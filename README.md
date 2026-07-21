@@ -1,8 +1,12 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:7C3AED&height=220&section=header&text=MANZEZULU%20MAZIBUKO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Software%20Engineering%20%7C%20Product%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=header" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+technology+that+solves+real-world+problems;Software+Engineer;AI+%26+Software+Engineering+Enthusiast" />
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Full-Stack+Developer;AI+%26+Software+Engineering+Practitioner;Product+Engineering+%7C+Automation+%7C+Cloud;Building+technology+that+solves+real-world+problems" alt="Typing SVG" />
