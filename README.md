@@ -105,6 +105,35 @@ I approach engineering with a **product mindset**: understand the problem, desig
 ## 🚀 Featured Projects
 
 <details>
+<summary><strong>📝 Sticky Notes App</strong></summary>
+
+<br />
+
+A Django-based sticky notes application built to demonstrate the full Model-View-Template (MVT) architecture — letting users create, view, update, and delete colour-coded notes through a clean, tested CRUD interface.
+
+| Category        | Details                                                                    |
+| --------------- | --------------------------------------------------------------------------- |
+| **Stack**       | Python / Django / SQLite / HTML / CSS                                       |
+| **Scale**       | Single-user web application                                                 |
+| **Performance** | Lightweight CRUD app following the Post/Redirect/Get pattern                |
+| **Security**    | Django CSRF protection on all forms; POST-only destructive actions          |
+| **Impact**      | Demonstrates core Django fundamentals: models, forms, views, and templates  |
+| **Repository**  | [View Repository](https://github.com/manzezulu/sticky_notes)                |
+
+### Engineering Scope
+
+* Custom `Note` model with title, content, colour, and timestamp fields
+* Full CRUD functionality (create, read, update, delete)
+* `ModelForm`-based input validation
+* Template inheritance with a shared base layout
+* Static CSS styling for a sticky-note card UI
+* Django admin integration for direct data management
+* 17-test automated test suite covering models, forms, and views
+* Manually verified end-to-end request/response flow
+
+</details>
+
+<details>
 <summary><strong>👟 Shoe Inventory Management System</strong></summary>
 
 <br />
